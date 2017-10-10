@@ -1,0 +1,210 @@
+Philosopher_1 is THINKING
+Philosopher_4 is THINKING
+Philosopher_3 is THINKING
+Philosopher_2 is THINKING
+Philosopher_5 is THINKING
+Philosopher_5 is HUNGRY
+Chopstick_5 picked-up
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_4 released
+Chopstick_5 released
+Philosopher_5 is THINKING
+Philosopher_2 is HUNGRY
+Philosopher_1 is HUNGRY
+Chopstick_2 picked-up
+Philosopher_5 is HUNGRY
+Chopstick_1 picked-up
+Philosopher_4 is HUNGRY
+Philosopher_2 is EATING
+Chopstick_5 picked-up
+Chopstick_4 picked-up
+Chopstick_3 picked-up
+Philosopher_3 is HUNGRY
+Philosopher_4 is EATING
+Chopstick_3 released
+Chopstick_4 released
+Philosopher_4 is THINKING
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_3 picked-up
+Chopstick_1 released
+Chopstick_2 released
+Philosopher_2 is THINKING
+Chopstick_2 picked-up
+Philosopher_3 is EATING
+Chopstick_1 picked-up
+Chopstick_4 released
+Chopstick_5 released
+Philosopher_5 is THINKING
+Philosopher_2 is HUNGRY
+Chopstick_5 picked-up
+Philosopher_1 is EATING
+Philosopher_4 is HUNGRY
+Chopstick_4 picked-up
+Chopstick_2 released
+Chopstick_3 released
+Philosopher_3 is THINKING
+Chopstick_2 picked-up
+Chopstick_5 released
+Chopstick_1 released
+Philosopher_1 is THINKING
+Chopstick_3 picked-up
+Philosopher_5 is HUNGRY
+Philosopher_4 is EATING
+Chopstick_1 picked-up
+Philosopher_2 is EATING
+Chopstick_5 picked-up
+Philosopher_3 is HUNGRY
+Chopstick_1 released
+Chopstick_2 released
+Philosopher_2 is THINKING
+Chopstick_3 released
+Chopstick_4 released
+Philosopher_4 is THINKING
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_3 picked-up
+Chopstick_2 picked-up
+Philosopher_3 is EATING
+Chopstick_2 released
+Chopstick_3 released
+Philosopher_3 is THINKING
+Philosopher_1 is HUNGRY
+Philosopher_2 is HUNGRY
+Chopstick_1 picked-up
+Philosopher_4 is HUNGRY
+Chopstick_2 picked-up
+Chopstick_4 released
+Chopstick_5 released
+Philosopher_5 is THINKING
+Chopstick_5 picked-up
+Philosopher_1 is EATING
+Chopstick_4 picked-up
+Chopstick_3 picked-up
+Philosopher_4 is EATING
+Philosopher_5 is HUNGRY
+Philosopher_3 is HUNGRY
+Chopstick_3 released
+Chopstick_4 released
+Philosopher_4 is THINKING
+Chopstick_5 released
+Chopstick_1 released
+Philosopher_1 is THINKING
+Chopstick_5 picked-up
+Chopstick_3 picked-up
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_1 picked-up
+Philosopher_2 is EATING
+Philosopher_4 is HUNGRY
+Philosopher_1 is HUNGRY
+Chopstick_4 released
+Chopstick_5 released
+Philosopher_5 is THINKING
+Chopstick_4 picked-up
+Chopstick_1 released
+Chopstick_2 released
+Philosopher_2 is THINKING
+Chopstick_2 picked-up
+Philosopher_3 is EATING
+Chopstick_1 picked-up
+Chopstick_5 picked-up
+Philosopher_1 is EATING
+Chopstick_5 released
+Chopstick_1 released
+Philosopher_1 is THINKING
+Philosopher_2 is HUNGRY
+Philosopher_5 is HUNGRY
+Chopstick_5 picked-up
+Chopstick_2 released
+Chopstick_3 released
+Philosopher_3 is THINKING
+Chopstick_2 picked-up
+Chopstick_3 picked-up
+Philosopher_4 is EATING
+Philosopher_3 is HUNGRY
+Chopstick_1 picked-up
+Philosopher_2 is EATING
+Philosopher_1 is HUNGRY
+Chopstick_3 released
+Chopstick_4 released
+Philosopher_4 is THINKING
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_3 picked-up
+Chopstick_1 released
+Philosopher_4 is HUNGRY
+Chopstick_2 released
+Philosopher_2 is THINKING
+Chopstick_1 picked-up
+Chopstick_2 picked-up
+Chopstick_4 released
+Philosopher_3 is EATING
+Chopstick_5 released
+Philosopher_5 is THINKING
+Chopstick_4 picked-up
+Chopstick_5 picked-up
+Philosopher_1 is EATING
+Philosopher_2 is HUNGRY
+Philosopher_5 is HUNGRY
+Chopstick_5 released
+Chopstick_2 released
+Chopstick_1 released
+Chopstick_3 released
+Philosopher_1 is THINKING
+Philosopher_3 is THINKING
+Chopstick_3 picked-up
+Philosopher_4 is EATING
+Chopstick_5 picked-up
+Chopstick_2 picked-up
+Chopstick_3 released
+Chopstick_4 released
+Philosopher_4 is THINKING
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_1 picked-up
+Philosopher_2 is EATING
+Philosopher_3 is HUNGRY
+Chopstick_3 picked-up
+Philosopher_1 is HUNGRY
+Chopstick_1 released
+Chopstick_2 released
+Chopstick_2 picked-up
+Philosopher_2 is THINKING
+Philosopher_3 is EATING
+Chopstick_1 picked-up
+Philosopher_4 is HUNGRY
+Chopstick_4 released
+Chopstick_5 released
+Philosopher_5 is THINKING
+Chopstick_5 picked-up
+Chopstick_4 picked-up
+Philosopher_1 is EATING
+Chopstick_2 released
+Chopstick_3 released
+Philosopher_3 is THINKING
+Chopstick_3 picked-up
+Philosopher_4 is EATING
+Philosopher_3 is HUNGRY
+Philosopher_5 is HUNGRY
+Philosopher_2 is HUNGRY
+Chopstick_2 picked-up
+Chopstick_5 released
+Chopstick_1 released
+Philosopher_1 is THINKING
+Chopstick_3 released
+Chopstick_1 picked-up
+Chopstick_4 released
+Philosopher_2 is EATING
+Philosopher_4 is THINKING
+Chopstick_5 picked-up
+Chopstick_3 picked-up
+Chopstick_4 picked-up
+Philosopher_5 is EATING
+Chopstick_1 released
+Chopstick_2 released
+Philosopher_2 is THINKING
+Chopstick_2 picked-up
+Philosopher_4 is HUNGRY
+Philosopher_3 is EATING
